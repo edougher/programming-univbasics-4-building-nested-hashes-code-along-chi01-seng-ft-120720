@@ -32,7 +32,7 @@ def second_challenge
 
 end
 =end
-
+def second_challenge
 epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
@@ -47,3 +47,4 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
+end
